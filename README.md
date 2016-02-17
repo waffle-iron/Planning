@@ -4,12 +4,6 @@
 
 Planning discussions and issues that span multiple repositories
 
-[![Materials in Icebox](https://badge.waffle.io/ga-wdi-boston/planning.svg?label=icebox&title=Icebox)](http://waffle.io/ga-wdi-boston/planning)
-[![Materials in Planning](https://badge.waffle.io/ga-wdi-boston/planning.svg?label=planning&title=Planning)](http://waffle.io/ga-wdi-boston/planning)
-[![Materials Scheduled](https://badge.waffle.io/ga-wdi-boston/planning.svg?label=scheduled&title=Scheduled)](http://waffle.io/ga-wdi-boston/planning)
-[![Materials Prepared](https://badge.waffle.io/ga-wdi-boston/planning.svg?label=prepared&title=Prepared)](http://waffle.io/ga-wdi-boston/planning)
-[![Materials Delivered](https://badge.waffle.io/ga-wdi-boston/planning.svg?label=delivered&title=Delivered)](http://waffle.io/ga-wdi-boston/planning)
-
 [![Throughput Graph](https://graphs.waffle.io/ga-wdi-boston/planning/throughput.svg)](https://waffle.io/ga-wdi-boston/planning/metrics)
 
 ## [License](LICENSE)
